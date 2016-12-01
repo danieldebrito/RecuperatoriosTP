@@ -1,0 +1,24 @@
+C:\Users\Daniel\Google Drive\utn tssi\24 programacion II\tp 3\deBrito.Daniel.Ruben.2D.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Google Drive\2do cuatrimestre\24 programacion II\tp 3\deBrito.Daniel.Ruben.2D.TP3 V1.0\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\EntidadesInstanciables\bin\Debug\EbtidadesAbstractas.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\EntidadesInstanciables\bin\Debug\EbtidadesAbstractas.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\EntidadesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\EntidadesInstanciables\bin\Debug\Archivos.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\EntidadesInstanciables\bin\Debug\Archivos.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\EntidadesInstanciables\bin\Debug\Archivos.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\EntidadesInstanciables\bin\Debug\EbtidadesAbstractas.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\EntidadesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\EntidadesInstanciables\bin\Debug\Archivos.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\EntidadesInstanciables\bin\Debug\EbtidadesAbstractas.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\EntidadesInstanciables\bin\Debug\Excepciones.pdb

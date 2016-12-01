@@ -1,0 +1,21 @@
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3\EbtidadesAbstractas\bin\Debug\EbtidadesAbstractas.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3\EbtidadesAbstractas\bin\Debug\EbtidadesAbstractas.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3\EbtidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3\EbtidadesAbstractas\obj\Debug\EbtidadesAbstractas.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3\EbtidadesAbstractas\obj\Debug\EbtidadesAbstractas.pdb
+C:\Users\Daniel\Google Drive\utn tssi\24 programacion II\tp 3\deBrito.Daniel.Ruben.2D.TP3\EbtidadesAbstractas\bin\Debug\EbtidadesAbstractas.dll
+C:\Users\Daniel\Google Drive\utn tssi\24 programacion II\tp 3\deBrito.Daniel.Ruben.2D.TP3\EbtidadesAbstractas\bin\Debug\EbtidadesAbstractas.pdb
+C:\Users\Daniel\Google Drive\utn tssi\24 programacion II\tp 3\deBrito.Daniel.Ruben.2D.TP3\EbtidadesAbstractas\obj\Debug\EbtidadesAbstractas.dll
+C:\Users\Daniel\Google Drive\utn tssi\24 programacion II\tp 3\deBrito.Daniel.Ruben.2D.TP3\EbtidadesAbstractas\obj\Debug\EbtidadesAbstractas.pdb
+C:\Users\Daniel\Google Drive\2do cuatrimestre\24 programacion II\tp 3\deBrito.Daniel.Ruben.2D.TP3 V1.0\EbtidadesAbstractas\bin\Debug\EbtidadesAbstractas.dll
+C:\Users\Daniel\Google Drive\2do cuatrimestre\24 programacion II\tp 3\deBrito.Daniel.Ruben.2D.TP3 V1.0\EbtidadesAbstractas\bin\Debug\EbtidadesAbstractas.pdb
+C:\Users\Daniel\Google Drive\2do cuatrimestre\24 programacion II\tp 3\deBrito.Daniel.Ruben.2D.TP3 V1.0\EbtidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Google Drive\2do cuatrimestre\24 programacion II\tp 3\deBrito.Daniel.Ruben.2D.TP3 V1.0\EbtidadesAbstractas\obj\Debug\EbtidadesAbstractas.dll
+C:\Users\Daniel\Google Drive\2do cuatrimestre\24 programacion II\tp 3\deBrito.Daniel.Ruben.2D.TP3 V1.0\EbtidadesAbstractas\obj\Debug\EbtidadesAbstractas.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\EbtidadesAbstractas\bin\Debug\EbtidadesAbstractas.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\EbtidadesAbstractas\bin\Debug\EbtidadesAbstractas.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\EbtidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\EbtidadesAbstractas\obj\Debug\EbtidadesAbstractas.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\EbtidadesAbstractas\obj\Debug\EbtidadesAbstractas.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\EbtidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\EbtidadesAbstractas\bin\Debug\Excepciones.pdb

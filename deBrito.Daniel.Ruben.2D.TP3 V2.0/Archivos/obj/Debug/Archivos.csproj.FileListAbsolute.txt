@@ -1,0 +1,7 @@
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\Archivos\bin\Debug\Archivos.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\Archivos\obj\Debug\Archivos.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\Archivos\obj\Debug\Archivos.pdb

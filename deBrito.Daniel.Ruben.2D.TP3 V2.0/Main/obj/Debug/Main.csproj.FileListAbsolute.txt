@@ -1,0 +1,15 @@
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V1.0\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\Main\bin\Debug\Main.exe.config
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\Main\bin\Debug\Main.exe
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\Main\bin\Debug\Main.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\Main\bin\Debug\Archivos.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\Main\bin\Debug\EbtidadesAbstractas.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\Main\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\Main\bin\Debug\Excepciones.dll
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\Main\bin\Debug\Archivos.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\Main\bin\Debug\EbtidadesAbstractas.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\Main\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\Main\bin\Debug\Excepciones.pdb
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\Main\obj\Debug\Main.exe
+C:\Users\Daniel\Desktop\deBrito.Daniel.Ruben.2D.TP3 V2.1\Main\obj\Debug\Main.pdb
